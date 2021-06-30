@@ -2,7 +2,7 @@ const SHOP_DATA = [
   {
     id: 1,
     title: "Headphones",
-    routeName: "hats",
+    routeName: "headphone",
     items: [
       {
         id: 1,
@@ -63,7 +63,7 @@ const SHOP_DATA = [
   {
     id: 2,
     title: "Powerbanks",
-    routeName: "sneakers",
+    routeName: "powerbanks",
     items: [
       {
         id: 10,
@@ -118,7 +118,7 @@ const SHOP_DATA = [
   {
     id: 3,
     title: "Glasses",
-    routeName: "jackets",
+    routeName: "glasses",
     items: [
       {
         id: 18,
@@ -155,7 +155,7 @@ const SHOP_DATA = [
   {
     id: 4,
     title: "Laptops",
-    routeName: "womens",
+    routeName: "laptop",
     items: [
       {
         id: 23,
@@ -204,7 +204,7 @@ const SHOP_DATA = [
   {
     id: 5,
     title: "Phones",
-    routeName: "mens",
+    routeName: "phone",
     items: [
       {
         id: 30,
